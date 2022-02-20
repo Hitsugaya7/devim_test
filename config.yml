@@ -1,0 +1,12 @@
+
+server:
+  port: 8080
+
+
+
+circumference:
+  center_сoordinate_x: 0
+  center_сoordinate_y: 0
+  diameter: 1
+
+

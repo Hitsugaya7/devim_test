@@ -1,0 +1,12 @@
+GET http://localhost:8080/exchange-rate?coord_x=0&coord_y=0
+Content-Type: application/json
+
+{}
+
+
+###
+
+
+
+
+
